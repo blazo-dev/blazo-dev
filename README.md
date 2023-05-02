@@ -20,7 +20,7 @@
 </p>
 <div>
   <h2 align="center">Skills</h2>
-    <div align="left" style="display: flex; gap: 1em; justify-content: center;">
+    <div align="center" style="display: flex; gap: 1em; justify-content: center;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
           src="https://angular.io/assets/images/logos/angular/angular.svg"
