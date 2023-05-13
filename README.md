@@ -23,8 +23,16 @@
     <div align="center" style="display: flex; gap: 1em; justify-content: center;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
-          src="https://angular.io/assets/images/logos/angular/angular.svg"
+          src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
           alt="angular"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
+          alt="vue js"
           width="40"
           height="40"
         />
@@ -39,7 +47,7 @@
       </a>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
           alt="java"
           width="40"
           height="40"
@@ -67,7 +75,7 @@
         rel="noreferrer"
       >
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
           alt="typescript"
           width="40"
           height="40"
@@ -92,10 +100,10 @@
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/bryanlazodev" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                    alt="bryanlazodev" height="30" width="40" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bryanlazodev" height="30" width="40" />
      </a>
     <a href="https://www.youtube.com/@newlaz" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@newlaz"            height="30" width="40" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="@newlaz" height="30" width="40" />
     </a>
   </p>
 <div>
