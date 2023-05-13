@@ -17,6 +17,8 @@
   Additionally, I worked on designing and creating responsive web applications
   using HTML, CSS, and JavaScript. I also used my Angular skills to make designs
   adapt to different screen sizes.
+  <br/>
+  I have experience working with Vue JS as well, and I am excited to continue expanding my knowledge and expertise in this framework.
 </p>
 <div>
   <h2 align="center">Skills</h2>
