@@ -103,7 +103,7 @@
       <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bryanlazodev" height="30" width="40" />
      </a>
     <a href="https://www.youtube.com/@newlaz" target="blank">
-      <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="@newlaz" height="30" width="40" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="@newlaz" height="30" width="40" />
     </a>
   </p>
 <div>
