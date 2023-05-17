@@ -16,8 +16,7 @@
   collaborated on agile teams using version control tools like Git.
   Additionally, I worked on designing and creating responsive web applications
   using HTML, CSS, and JavaScript. I also used my Angular skills to make designs
-  adapt to different screen sizes. I have experience working with Vue JS as well, 
-  and I am excited to continue expanding my knowledge and expertise in this framework.
+  adapt to different screen sizes. 
 </p>
 <div>
   <h2 align="center">Skills</h2>
@@ -26,14 +25,6 @@
         <img
           src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
           alt="angular"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
-          alt="vue js"
           width="40"
           height="40"
         />
