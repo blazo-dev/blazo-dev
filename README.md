@@ -8,14 +8,12 @@
 </div>
 
 <p align="left">
-  I am passionate about technology and web development. I
-  love staying up-to-date with the latest trends and technologies, and I am
-  always looking for opportunities to learn and improve my skills. Work
+  Passionate about technology and web development. I
+  love staying up-to-date with the latest trends and technologies, and always looking for opportunities to learn and improve my skills. Work
   Experience Angular Developer at Applaudo Studios (6 months) During my time at
-  Applaudo Studios, I worked on web projects using the Angular framework. I
-  collaborated on agile teams using version control tools like Git.
-  Additionally, I worked on designing and creating responsive web applications
-  using HTML, CSS, and JavaScript. I also used my Angular skills to make designs
+  Applaudo Studios, worked on web projects using the Angular framework. Collaborated on agile teams using version control tools like Git.
+  Additionally, worked on designing and creating responsive web applications
+  using HTML, CSS, and JavaScript. Used my Angular skills to make designs
   adapt to different screen sizes. 
 </p>
 <div>
@@ -29,10 +27,10 @@
           height="40"
         />
       </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
+          src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+          alt="react js logo"
           width="40"
           height="40"
         />
@@ -69,6 +67,14 @@
         <img
           src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
           alt="typescript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git"
           width="40"
           height="40"
         />
