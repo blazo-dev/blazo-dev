@@ -85,10 +85,9 @@
 <div align="center">
   <h2 align="center">About me</h2>
   <p align="left">
-    In addition to my passion for web development, I care about my physical
-    health and well-being. I enjoy spending time with friends and family, and I
-    am a sociable and collaborative person in a team. I consider myself a
-    reliable person and I am always willing to learn and improve my skills.
+    In addition to my passion for web development, care about my physical
+    health and well-being. Enjoy spending time with friends and family, and sociable and collaborative person in a team. I consider myself a
+    reliable person and willing to learn and improve my skills.
     Thank you for visiting my Github profile! If you have any questions or want
     to talk about a project, feel free to get in touch with me.
   </p>
