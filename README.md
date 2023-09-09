@@ -4,7 +4,7 @@
     width="200"
   />
   <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
-  <h3 align="center">Navigating code, design and creativity to sculpt the future of exceptional web experiences.</h3>
+  <h3 align="left">Navigating code, design and creativity to sculpt the future of exceptional web experiences.</h3>
 </div>
 
 <p align="left">
