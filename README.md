@@ -124,13 +124,13 @@ Today, my passion for web development in general and the cloud has grown tremend
 <div>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/bryanlazodev" target="_blank">
+    <a href="https://linkedin.com/in/bryanlazodev" target="_blank"  rel="noreferrer">
       <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bryanlazodev" height="30" width="40" />
      </a>
-    <a href="https://www.youtube.com/@newlaz" target="_blank">
+    <a href="https://www.youtube.com/@newlaz" target="_blank"  rel="noreferrer">
       <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="@newlaz" width="40" />
     </a>
-    <a href="https://blazo-dev.vercel.app/" target="_blank">
+    <a href="https://blazo-dev.vercel.app/" target="_blank"  rel="noreferrer">
       <img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="portfolio" width="40" />
     </a>
   </p>
