@@ -130,5 +130,8 @@ Today, my passion for web development in general and the cloud has grown tremend
     <a href="https://www.youtube.com/@newlaz" target="blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="@newlaz" width="40" />
     </a>
+    <a href="https://blazo-dev.vercel.app/" target="blank">
+      <img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="portfolio" width="40" />
+    </a>
   </p>
 <div>
