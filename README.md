@@ -3,12 +3,12 @@
     src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif"
     width="200"
   />
-  <h1 align="center">Hi 👋, I'm Bryan Lazo</h1>
-  <h3 align="center">A passionate developer from El Salvador</h3>
+  <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
+  <h3 align="center">Navigating code, design and creativity to sculpt the future of exceptional web experiences.</h3>
 </div>
 
 <p align="left">
-Greetings, I'm Bryan Lazo! Navigating code, design and creativity to sculpt the future of exceptional web experiences. My career began with a focus on Front-End development, where I honed UI creation with Angular, implemented features as designed, and collaborated closely with teams to integrate APIs and solve cross-browser compatibility issues.
+My career began with a focus on Front-End development, where I honed UI creation with Angular, implemented features as designed, and collaborated closely with teams to integrate APIs and solve cross-browser compatibility issues.
 <br />
 <br />
 Over time, expanded my skill set as a Full Stack developer, exploring Back-End technologies like Java and Oracle, and automating tasks with UC4. Also specialized in database management using PL/SQL and SQL queries.
