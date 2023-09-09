@@ -8,13 +8,11 @@
 </div>
 
 <p align="left">
-  Passionate about technology and web development. I
-  love staying up-to-date with the latest trends and technologies, and always looking for opportunities to learn and improve my skills. Work
-  Experience Angular Developer at Applaudo Studios (6 months) During my time at
-  Applaudo Studios, worked on web projects using the Angular framework. Collaborated on agile teams using version control tools like Git.
-  Additionally, worked on designing and creating responsive web applications
-  using HTML, CSS, and JavaScript. Used my Angular skills to make designs
-  adapt to different screen sizes. 
+Greetings, I'm Bryan Lazo! Navigating code, design and creativity to sculpt the future of exceptional web experiences. My career began with a focus on Front-End development, where I honed UI creation with Angular, implemented features as designed, and collaborated closely with teams to integrate APIs and solve cross-browser compatibility issues.
+<br />
+Over time, expanded my skill set as a Full Stack developer, exploring Back-End technologies like Java and Oracle, and automating tasks with UC4. Also specialized in database management using PL/SQL and SQL queries.
+<br />
+Today, my passion for web development in general and the cloud has grown tremendously. This passion constantly drives me to improve in all aspects, have skills to develop both in Front-End and Back-End, as well as in server management. Currently, immersed in projects that span all of these areas, allowing me to explore and hone my skills across the entire spectrum of web development and cloud computing. Focused on this exciting journey of learning and evolution! 
 </p>
 <div>
   <h2 align="center">Skills</h2>
