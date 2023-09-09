@@ -73,7 +73,7 @@ Today, my passion for web development in general and the cloud has grown tremend
         rel="noreferrer"
       >
         <img
-          src="https://www.svgrepo.com/show/354118/nodejs.svg"
+          src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"
           alt="nodejs"
           width="40"
           height="40"
