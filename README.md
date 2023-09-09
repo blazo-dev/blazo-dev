@@ -19,6 +19,14 @@ Today, my passion for web development in general and the cloud has grown tremend
 <div>
   <h2 align="center">Skills</h2>
     <div align="center" style="display: flex; gap: 1em; justify-content: center;">
+      <a href="https://astro.build/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.svgrepo.com/show/373446/astro.svg"
+          alt="astro"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
@@ -43,6 +51,14 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+          alt="spring"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -51,10 +67,14 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+      <a
+        href="https://nodejs.org/en"
+        target="_blank"
+        rel="noreferrer"
+      >
         <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
+          src="https://www.svgrepo.com/show/354118/nodejs.svg"
+          alt="nodejs"
           width="40"
           height="40"
         />
@@ -67,6 +87,14 @@ Today, my passion for web development in general and the cloud has grown tremend
         <img
           src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
           alt="typescript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.svgrepo.com/show/354107/nestjs.svg"
+          alt="nestjs"
           width="40"
           height="40"
         />
