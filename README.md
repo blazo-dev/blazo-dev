@@ -19,30 +19,6 @@ Today, my passion for web development in general and the cloud has grown tremend
 <div>
   <h2 align="center">Skills</h2>
     <div align="center" style="display: flex; gap: 1em; justify-content: center;">
-      <a href="https://astro.build/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.svgrepo.com/show/373446/astro.svg"
-          alt="astro"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
-          alt="angular"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-          alt="react js logo"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
@@ -59,26 +35,6 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://nodejs.org/en"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
       <a
         href="https://www.typescriptlang.org/"
         target="_blank"
@@ -91,18 +47,10 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
-      <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
-          src="https://www.svgrepo.com/show/354107/nestjs.svg"
-          alt="nestjs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
+          src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+          alt="angular"
           width="40"
           height="40"
         />
