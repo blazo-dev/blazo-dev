@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"
+    src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif"
     width="200"
   />
   <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
