@@ -4,7 +4,7 @@
     width="200"
   />
   <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
-  <h3 align="left">I am a Full-Stack Developer with expertise in Angular, ReactJS, Java, and Astro, crafting exceptional web applications that are dynamic, responsive, and user-friendly.</h3>
+  <h3 align="left">Full-Stack Developer with expertise in Angular, ReactJS, Java, and Astro, crafting exceptional web applications that are dynamic, responsive, and user-friendly.</h3>
 </div>
 
 <p align="left">
