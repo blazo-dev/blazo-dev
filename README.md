@@ -70,7 +70,7 @@ Today, my focus is on leveraging the latest technologies to create seamless digi
       </a>
       <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/astro/astro-icon.svg"
+          src="https://astro.build/assets/press/astro-icon-light-gradient.svg"
           alt="astro"
           width="40"
           height="40"
