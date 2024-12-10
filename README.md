@@ -4,18 +4,19 @@
     width="200"
   />
   <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
-  <h3 align="left">Navigating code, design and creativity to sculpt the future of exceptional web experiences.</h3>
+  <h3 align="left">I am a Full-Stack Developer with expertise in Angular, ReactJS, Java, and Astro, crafting exceptional web applications that are dynamic, responsive, and user-friendly.</h3>
 </div>
 
 <p align="left">
-My career began with a focus on Front-End development, where I honed UI creation with Angular, implemented features as designed, and collaborated closely with teams to integrate APIs and solve cross-browser compatibility issues.
+With over three years of experience, I specialize in building modern web solutions, from front-end interfaces to robust back-end systems. Whether it's crafting reusable UI components, designing RESTful APIs, or optimizing performance, I am driven by a passion for delivering scalable, high-quality applications.
 <br />
 <br />
-Over time, expanded my skill set as a Full Stack developer, exploring Back-End technologies like Java and Oracle, and automating tasks with UC4. Also specialized in database management using PL/SQL and SQL queries.
+My journey began in Front-End development, mastering frameworks like Angular and ReactJS. Over time, I expanded into Back-End technologies such as Java and the Spring Framework, combining these skills to tackle full-stack challenges.
 <br />
 <br />
-Today, my passion for web development in general and the cloud has grown tremendously. This passion constantly drives me to improve in all aspects, have skills to develop both in Front-End and Back-End, as well as in server management. Currently, immersed in projects that span all of these areas, allowing me to explore and hone my skills across the entire spectrum of web development and cloud computing. Focused on this exciting journey of learning and evolution! 
+Today, my focus is on leveraging the latest technologies to create seamless digital experiences. I am always learning, evolving, and pushing the boundaries of what I can achieve in web development.
 </p>
+
 <div>
   <h2 align="center">Skills</h2>
     <div align="center" style="display: flex; gap: 1em; justify-content: center;">
@@ -35,6 +36,26 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+          alt="angular"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://reactjs.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+          alt="react"
+          width="40"
+          height="40"
+        />
+      </a>
       <a
         href="https://www.typescriptlang.org/"
         target="_blank"
@@ -47,10 +68,10 @@ Today, my passion for web development in general and the cloud has grown tremend
           height="40"
         />
       </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
-          alt="angular"
+          src="https://www.vectorlogo.zone/logos/astro/astro-icon.svg"
+          alt="astro"
           width="40"
           height="40"
         />
@@ -61,25 +82,21 @@ Today, my passion for web development in general and the cloud has grown tremend
 <div align="center">
   <h2 align="center">About me</h2>
   <p align="left">
-    In addition to my passion for web development, care about my physical
-    health and well-being. Enjoy spending time with friends and family, and sociable and collaborative person in a team. I consider myself a
-    reliable person and willing to learn and improve my skills.
-    Thank you for visiting my Github profile! If you have any questions or want
-    to talk about a project, feel free to get in touch with me.
+    Outside of coding, I value personal growth, fitness, and time with family and friends. I believe in continuous learning and strive to stay on the cutting edge of web development. Thank you for visiting my profile! If you'd like to collaborate or discuss a project, feel free to reach out. 🚀
   </p>
 </div>
 
 <div>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/bryanlazodev" target="_blank"  rel="noreferrer">
+    <a href="https://linkedin.com/in/bryanlazodev" target="_blank" rel="noreferrer">
       <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bryanlazodev" height="30" width="40" />
-     </a>
-    <a href="https://www.youtube.com/@newlaz" target="_blank"  rel="noreferrer">
+    </a>
+    <a href="https://www.youtube.com/@newlaz" target="_blank" rel="noreferrer">
       <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="@newlaz" width="40" />
     </a>
-    <a href="https://blazo-dev.vercel.app/" target="_blank"  rel="noreferrer">
+    <a href="https://blazo-dev.vercel.app/" target="_blank" rel="noreferrer">
       <img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="portfolio" width="40" />
     </a>
   </p>
-<div>
+</div>
