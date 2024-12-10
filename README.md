@@ -12,7 +12,7 @@ Full-Stack Developer with over three years of experience specializing in Angular
 ---
 <div>
   <h2 align="center">Frontend Development Expertise</h2>
-  <ul align="left" style="list-style: none; padding: 0;">
+  <ul align="left">
     <li>✔️ Expert in Angular, ReactJS, Astro, HTML5, CSS3, and JavaScript</li>
     <li>✔️ Building responsive and mobile-first web designs 📱</li>
     <li>✔️ Creating reusable UI components with Angular and React ♻️</li>
@@ -31,7 +31,7 @@ Full-Stack Developer with over three years of experience specializing in Angular
 
 <div>
   <h2 align="center">Backend Development Expertise</h2>
-  <ul align="left" style="list-style: none; padding: 0;">
+  <ul align="left">
     <li>✔️ Proficient in Java, Spring Framework, and Hibernate ☕</li>
     <li>✔️ Designing and implementing RESTful APIs 🌉</li>
     <li>✔️ Managing databases with SQL and NoSQL solutions 🗄️</li>
