@@ -11,30 +11,19 @@ Full-Stack Developer with over three years of experience specializing in Angular
 
 ---
 <div>
-  <style>
-    ul {
-      list-style: none; /* Elimina las viñetas predeterminadas */
-      padding: 0; /* Opcional: Ajusta el espaciado */
-    }
-    li::before {
-      content: '✔️'; /* Agrega el ícono de check */
-      margin-right: 0.5em; /* Espacio entre el ícono y el texto */
-      color: green; /* Opcional: Cambia el color del ícono */
-    }
-  </style>
   <h2 align="center">Frontend Development Expertise</h2>
-  <ul align="left">
-    <li>Expert in Angular, ReactJS, Astro, HTML5, CSS3, and JavaScript</li>
-    <li>Building responsive and mobile-first web designs 📱</li>
-    <li>Creating reusable UI components with Angular and React ♻️</li>
-    <li>Building fast and optimized landing pages with Astro 🚀</li>
-    <li>Ensuring web accessibility and adherence to web standards ♿</li>
-    <li>Utilizing CSS pre-processors like SASS/SCSS for better styling 🎨</li>
-    <li>Implementing state management with NgRx for Angular and Context API for React 🗂️</li>
-    <li>Using version control systems like Git for collaborative development 👥</li>
-    <li>Optimizing frontend performance for faster load times ⚡</li>
-    <li>Troubleshooting and resolving cross-browser compatibility issues 🌐</li>
-    <li>Writing unit and integration tests for front-end components to ensure code quality and reliability 🧪</li>
+  <ul align="left" style="list-style: none; padding: 0;">
+    <li>✔️ Expert in Angular, ReactJS, Astro, HTML5, CSS3, and JavaScript</li>
+    <li>✔️ Building responsive and mobile-first web designs 📱</li>
+    <li>✔️ Creating reusable UI components with Angular and React ♻️</li>
+    <li>✔️ Building fast and optimized landing pages with Astro 🚀</li>
+    <li>✔️ Ensuring web accessibility and adherence to web standards ♿</li>
+    <li>✔️ Utilizing CSS pre-processors like SASS/SCSS for better styling 🎨</li>
+    <li>✔️ Implementing state management with NgRx for Angular and Context API for React 🗂️</li>
+    <li>✔️ Using version control systems like Git for collaborative development 👥</li>
+    <li>✔️ Optimizing frontend performance for faster load times ⚡</li>
+    <li>✔️ Troubleshooting and resolving cross-browser compatibility issues 🌐</li>
+    <li>✔️ Writing unit and integration tests for front-end components to ensure code quality and reliability 🧪</li>
   </ul>
 </div>
 
@@ -42,15 +31,15 @@ Full-Stack Developer with over three years of experience specializing in Angular
 
 <div>
   <h2 align="center">Backend Development Expertise</h2>
-  <ul align="left">
-    <li>Proficient in Java, Spring Framework, and Hibernate ☕</li>
-    <li>Designing and implementing RESTful APIs 🌉</li>
-    <li>Managing databases with SQL and NoSQL solutions 🗄️</li>
-    <li>Implementing security best practices for backend services 🔒</li>
-    <li>Writing unit and integration tests for robust code 🧩</li>
-    <li>Experience with microservices architecture 🏗️</li>
-    <li>Automating tasks and processes for efficient development ⚙️</li>
-    <li>Integrating third-party services and APIs 🔗</li>
+  <ul align="left" style="list-style: none; padding: 0;">
+    <li>✔️ Proficient in Java, Spring Framework, and Hibernate ☕</li>
+    <li>✔️ Designing and implementing RESTful APIs 🌉</li>
+    <li>✔️ Managing databases with SQL and NoSQL solutions 🗄️</li>
+    <li>✔️ Implementing security best practices for backend services 🔒</li>
+    <li>✔️ Writing unit and integration tests for robust code 🧩</li>
+    <li>✔️ Experience with microservices architecture 🏗️</li>
+    <li>✔️ Automating tasks and processes for efficient development ⚙️</li>
+    <li>✔️ Integrating third-party services and APIs 🔗</li>
   </ul>
 </div>
 
