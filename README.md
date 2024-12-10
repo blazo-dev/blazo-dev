@@ -1,22 +1,7 @@
-<div align="center">
-  <img
-    src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif"
-    width="200"
-  />
-  <h1 align="center">Greetings 👋, I'm Bryan Lazo</h1>
-  <h3 align="left">Full-Stack Developer with expertise in Angular, ReactJS, Java, and Astro, crafting exceptional web applications that are dynamic, responsive, and user-friendly.</h3>
-</div>
+# Hello, I'm Bryan Lazo 👋
 
-<p align="left">
-With over three years of experience, I specialize in building modern web solutions, from front-end interfaces to robust back-end systems. Whether it's crafting reusable UI components, designing RESTful APIs, or optimizing performance, I am driven by a passion for delivering scalable, high-quality applications.
-<br />
-<br />
-My journey began in Front-End development, mastering frameworks like Angular and ReactJS. Over time, I expanded into Back-End technologies such as Java and the Spring Framework, combining these skills to tackle full-stack challenges.
-<br />
-<br />
-Today, my focus is on leveraging the latest technologies to create seamless digital experiences. I am always learning, evolving, and pushing the boundaries of what I can achieve in web development.
-</p>
-
+I am a **Full-Stack Developer** with over three years of experience specializing in **Angular**, **ReactJS**, and **Java**, with additional expertise in using **Astro** for building landing pages. My skills focus on creating dynamic, responsive, and user-friendly web applications using these modern technologies. 🌐💻
+---
 <div>
   <h2 align="center">Skills</h2>
     <div align="center" style="display: flex; gap: 1em; justify-content: center;">
@@ -78,25 +63,45 @@ Today, my focus is on leveraging the latest technologies to create seamless digi
       </a>
   </div>
 </div>
+---
 
-<div align="center">
-  <h2 align="center">About me</h2>
-  <p align="left">
-    Outside of coding, I value personal growth, fitness, and time with family and friends. I believe in continuous learning and strive to stay on the cutting edge of web development. Thank you for visiting my profile! If you'd like to collaborate or discuss a project, feel free to reach out. 🚀
-  </p>
-</div>
+## Frontend Development Expertise:
 
-<div>
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/bryanlazodev" target="_blank" rel="noreferrer">
-      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bryanlazodev" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@newlaz" target="_blank" rel="noreferrer">
-      <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="@newlaz" width="40" />
-    </a>
-    <a href="https://blazo-dev.vercel.app/" target="_blank" rel="noreferrer">
-      <img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="portfolio" width="40" />
-    </a>
-  </p>
-</div>
+- **Expert in Angular, ReactJS, Astro, HTML5, CSS3, and JavaScript**
+- Building responsive and mobile-first web designs 📱
+- Creating reusable UI components with Angular and React ♻️
+- Building fast and optimized landing pages with Astro 🚀
+- Ensuring web accessibility and adherence to web standards ♿
+- Utilizing CSS pre-processors like SASS/SCSS for better styling 🎨
+- Implementing state management with NgRx for Angular and Context API for React 🗂️
+- Using version control systems like Git for collaborative development 👥
+- Optimizing frontend performance for faster load times ⚡
+- Troubleshooting and resolving cross-browser compatibility issues 🌐
+- Writing unit and integration tests for front-end components to ensure code quality and reliability 🧪
+
+---
+
+## Backend Development Expertise:
+
+- **Proficient in Java, Spring Framework, and Hibernate** ☕
+- Designing and implementing RESTful APIs 🌉
+- Managing databases with SQL and NoSQL solutions 🗄️
+- Implementing security best practices for backend services 🔒
+- Writing unit and integration tests for robust code 🧩
+- Experience with microservices architecture 🏗️
+- Automating tasks and processes for efficient development ⚙️
+- Integrating third-party services and APIs 🔗
+
+---
+
+## About Me:
+
+Outside of coding, I value personal growth, fitness, and time with family and friends. I believe in continuous learning and strive to stay on the cutting edge of web development. Thank you for visiting my profile! If you'd like to collaborate or discuss a project, feel free to reach out. If you're looking for a developer with a strong background in Java and Angular, along with comprehensive frontend and backend expertise, feel free to get in touch. 🚀
+
+---
+
+## Connect with Me:
+
+- [LinkedIn](https://linkedin.com/in/bryanlazodev)
+- [YouTube: Laztech Dev](https://www.youtube.com/@laztechdev)
+- [Portfolio](https://blazo-dev.vercel.app/)
