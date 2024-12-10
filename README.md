@@ -19,7 +19,7 @@ Full-Stack Developer with over three years of experience specializing in Angular
     <li>✔️ Building fast and optimized landing pages with Astro 🚀</li>
     <li>✔️ Ensuring web accessibility and adherence to web standards ♿</li>
     <li>✔️ Utilizing CSS pre-processors like SASS/SCSS for better styling 🎨</li>
-    <li>✔️ Implementing state management with NgRx for Angular and Context API for React 🗂️</li>
+    <li>✔️ Implementing state management with NgRx for Angular and Redux Toolkit for React 🗂️</li>
     <li>✔️ Using version control systems like Git for collaborative development 👥</li>
     <li>✔️ Optimizing frontend performance for faster load times ⚡</li>
     <li>✔️ Troubleshooting and resolving cross-browser compatibility issues 🌐</li>
